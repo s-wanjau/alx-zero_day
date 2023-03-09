@@ -1,3 +1,5 @@
 
 clear
 ^C
+#!/bin/bash
+echo "ALX" 
